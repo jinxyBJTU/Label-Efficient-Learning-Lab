@@ -3,8 +3,8 @@
 This repository contains links primarily to conference publications in time-series based deep learning.
 
 + ## Machine Learning Conferences
-+ **NeurIPS - [2023](./conference-publications/NeurIPS/2023.md) | 2022**
-+ **ICML - 2023 | 2022**
++ **NeurIPS - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
++ **ICML - [2023](./conference-publications/ICML/2023.md) | [2022](./conference-publications/ICML/2022.md))**
 + **ICLR - 2023 | 2022**
 
 + ## Data Mining Conferences
