@@ -4,8 +4,8 @@ This repository contains links primarily to conference publications in time-seri
 
 + ## Machine Learning Conferences
 + **NeurIPS - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
-+ **ICML - [2023](./conference-publications/ICML/2023.md) | [2022](./conference-publications/ICML/2022.md))**
-+ **ICLR - 2023 | 2022**
++ **ICML - [2023](./conference-publications/ICML/2023.md) | [2022](./conference-publications/ICML/2022.md)**
++ **ICLR - [2023](./conference-publications/ICLR/2023.md) | [2022](./conference-publications/ICLR/2022.md)**
 
 + ## Data Mining Conferences
 + **KDD - 2023 | 2022**
