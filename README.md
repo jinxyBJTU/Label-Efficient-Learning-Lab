@@ -8,11 +8,11 @@ This repository contains links primarily to conference publications in time-seri
 + **ICLR - [2023](./conference-publications/ICLR/2023.md) | [2022](./conference-publications/ICLR/2022.md)**
 
 + ## Data Mining Conferences
-+ **KDD - 2023 | 2022**
-+ **ICDM - 2023 | 2022**
-+ **WSDM - 2023 | 2022**
++ **KDD - [2023](./conference-publications/KDD/2023.md) | [2022](./conference-publications/KDD/2022.md)**
++ **ICDM - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
++ **WSDM - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
 
 + ## Artificial Intelligence Conferences
-+ **AAAI - 2023 | 2022**
-+ **IJCAI - 2023 | 2022**
-+ **TheWebConf - 2023 | 2022**
++ **AAAI - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
++ **IJCAI - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
++ **TheWebConf - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
