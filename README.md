@@ -1,4 +1,4 @@
-# TS-Deep-Learning-Literature
+# TS-Reperesentation-Learning-Literature
 
 This repository contains links primarily to conference publications in time-series based deep learning.
 
