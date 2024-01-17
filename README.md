@@ -15,4 +15,5 @@ This repository contains links primarily to conference publications in time-seri
 + ## Artificial Intelligence Conferences
 + **AAAI - [2023](./conference-publications/AAAI/2023.md) | [2022](./conference-publications/AAAI/2022.md)**
 + **IJCAI - [2023](./conference-publications/IJCAI/2023.md) | [2022](./conference-publications/IJCAI/2022.md)**
++ **ACM MM - [2023](./conference-publications/MM/2023.md) | [2022](./conference-publications/MM/2022.md)**
 + **TheWebConf - [2023](./conference-publications/TheWebConf/2023.md) | [2022](./conference-publications/TheWebConf/2022.md)**
