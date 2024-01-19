@@ -1,6 +1,6 @@
 # TS-Reperesentation-Learning-Literature
 
-This repository contains links primarily to conference publications in time-series based deep learning.
+This repository contains links primarily to conference publications in label-efficient learning paradigms, including representation learning, weakly-supervised learning, label-noise learning, .etc.
 
 + ## Machine Learning Conferences
 + **NeurIPS - [2023](./conference-publications/NeurIPS/2023.md) | [2022](./conference-publications/NeurIPS/2022.md)**
