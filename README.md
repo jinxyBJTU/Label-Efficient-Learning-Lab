@@ -1,4 +1,4 @@
-# TS-Reperesentation-Learning-Literature
+# Label Efficient Learning 
 
 This repository contains links primarily to conference publications in label-efficient learning paradigms, including representation learning, weakly-supervised learning, label-noise learning, .etc.
 
